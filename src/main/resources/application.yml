@@ -17,4 +17,4 @@ spring:
     console:
       enabled: true
       path: /console
-      settings: {trace: false, web-allow-others: false}
+      settings: {trace: true, web-allow-others: true}
